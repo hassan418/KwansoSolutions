@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Kwanso.Model.Poco.Tasks>
+
+@{
+    ViewData["Title"] = "ListTasks";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>ListTasks</h1>
+
+<p>
+    <a href="~/create-task">Create New</a>
+</p>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="column">
+            <div class="card">
+                <h3>@Html.DisplayFor(modelItem => item.Name)</h3>
+            </div>
+        </div>
+    }
+</div>

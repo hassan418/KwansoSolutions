@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Kwanso.Model.Poco.Tasks>
+
+@{
+    ViewData["Title"] = "DeleteTasks";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>DeleteTasks</h1>
+
+<p>
+    <a href="~/list-tasks">TaskLists</a>
+</p>
+<p>
+    <button type="button" class="btn-outline-dark btn-danger">Delete Records</button>
+</p>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="column">
+            <div class="card">
+                <h3>@Html.DisplayFor(modelItem => item.Name)</h3>
+                <p><input type="checkbox" name="checkboxes" value="@Html.DisplayFor(modelItem => item.Id)" /></p>
+            </div>
+        </div>
+    }
+</div>

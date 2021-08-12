@@ -1,0 +1,9 @@
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Model\bin\Debug\netstandard2.0\Kwanso.Model.deps.json
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Model\bin\Debug\netstandard2.0\Kwanso.Model.dll
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Model\bin\Debug\netstandard2.0\Kwanso.Model.pdb
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Model\obj\Debug\netstandard2.0\Kwanso.Model.csprojAssemblyReference.cache
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Model\obj\Debug\netstandard2.0\Kwanso.Model.csproj.CoreCompileInputs.cache
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Model\obj\Debug\netstandard2.0\Kwanso.Model.AssemblyInfoInputs.cache
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Model\obj\Debug\netstandard2.0\Kwanso.Model.AssemblyInfo.cs
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Model\obj\Debug\netstandard2.0\Kwanso.Model.dll
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Model\obj\Debug\netstandard2.0\Kwanso.Model.pdb

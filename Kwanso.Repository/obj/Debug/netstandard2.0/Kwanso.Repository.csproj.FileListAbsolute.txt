@@ -1,0 +1,12 @@
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Repository\bin\Debug\netstandard2.0\Kwanso.Repository.deps.json
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Repository\bin\Debug\netstandard2.0\Kwanso.Repository.dll
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Repository\obj\Debug\netstandard2.0\Kwanso.Repository.csprojAssemblyReference.cache
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Repository\obj\Debug\netstandard2.0\Kwanso.Repository.AssemblyInfoInputs.cache
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Repository\obj\Debug\netstandard2.0\Kwanso.Repository.AssemblyInfo.cs
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Repository\bin\Debug\netstandard2.0\Kwanso.Repository.pdb
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Repository\bin\Debug\netstandard2.0\Kwanso.Model.dll
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Repository\bin\Debug\netstandard2.0\Kwanso.Model.pdb
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Repository\obj\Debug\netstandard2.0\Kwanso.Repository.csproj.CoreCompileInputs.cache
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Repository\obj\Debug\netstandard2.0\Kwanso.Repository.csproj.CopyComplete
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Repository\obj\Debug\netstandard2.0\Kwanso.Repository.dll
+C:\Users\HassanRaza\Desktop\KwansoSolution\Kwanso.Repository\obj\Debug\netstandard2.0\Kwanso.Repository.pdb
